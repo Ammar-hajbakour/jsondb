@@ -5,6 +5,6 @@
 			"email": "test@email.com",
 			"password": "123",
 			"confirmpassword": "123"
-		},
+		}
 	]
 }
